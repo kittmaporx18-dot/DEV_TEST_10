@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Miscellaneous
 *.class
 *.log
@@ -48,6 +49,8 @@ app.*.map.json
 =======
 =======
 >>>>>>> 2bf4eb427a9ca17f92e4557313d9a351ebf58130
+=======
+>>>>>>> 3a78fbe3417142b70300113cf57aa06276329b61
 # Gradle files
 .gradle/
 build/
@@ -83,6 +86,9 @@ google-services.json
 # Android Profiling
 *.hprof
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> ddabd55c0b9a9ed3bb515f087383fdfb4bb7e79b
 =======
 >>>>>>> 2bf4eb427a9ca17f92e4557313d9a351ebf58130
+=======
+>>>>>>> 3a78fbe3417142b70300113cf57aa06276329b61
