@@ -1,7 +1,5 @@
 import 'package:flutter/material.dart';
 import 'janna_page.dart';
-// import 'hanna_page.dart';
-// import 'hongyok_page.dart';
 
 void main() {
   runApp(const MyApp());
